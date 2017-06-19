@@ -1,2 +1,2 @@
-# itsEdMarcus.gihub.io
+# EdMarcus.gihub.io
 Página pessoal de Édlon de Sá.
